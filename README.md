@@ -33,5 +33,5 @@ How to run:
     valgrind ./speller dictionaries/large textfiles/sample.txt
 
 Project Background:
-Built as a core project in **CS50x: Computer Science Course** from Harvard University, this app simulates real-world stock trading platforms, demonstrating full-stack web development skills.
+Built as a core project in **CS50x: Computer Science Course** from Harvard University, this app spell checks text files and compares them to dictionary files with rapid response times through manually implemented hash table and dynamically allocates and frees memory. 
     
