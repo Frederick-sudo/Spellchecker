@@ -32,5 +32,6 @@ How to run:
   Use Valgrind to check for memory leaks 
     valgrind ./speller dictionaries/large textfiles/sample.txt
 
-  
+Project Background:
+Built as a core project in **CS50x: Computer Science Course** from Harvard University, this app simulates real-world stock trading platforms, demonstrating full-stack web development skills.
     
