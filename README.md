@@ -23,8 +23,9 @@ Makefile - Simplifies compilation of files
 dictionaries/ - Sample dictionaires used for testing
 
 How to run:
+  Clone the repository
+  
   Compile the program 
-    make speller
     
   Run spell checker of a text file
     ./speller [dictionary] textfile.txt    ex:./speller dictionaries/large textfiles/sample.txt
